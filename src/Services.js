@@ -5,7 +5,7 @@ const Services = ()=>{
   return (
     <>
     <div className="my-5">
-        <h1 className="text-center">OUR SERVICES</h1>
+        <h2 className="text-center">Our Services</h2>
     <div className="container-fluid mx-auto">
      <div className="row">
          <div className="col-10 mx-auto">
