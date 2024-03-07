@@ -14,7 +14,7 @@ const Services = ()=>{
                imgsrc="https://images.unsplash.com/photo-1599011802411-96abeab3577e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fHNlcnZpY2VzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
                title="Fire Safety"
                />
-                <Card 
+                <Card
                imgsrc="https://images.unsplash.com/photo-1607264469190-4abbbd14f5ab?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fHNlcnZpY2VzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
                title="Police Dept"
                />
